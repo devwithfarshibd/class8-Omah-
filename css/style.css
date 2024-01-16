@@ -92,7 +92,7 @@ nav {
       }
       &:hover {
         scale: 1.2;
-        text-shadow: 1px 1px 2px var(--praimary-color);
+        text-shadow: .1rem .1rem .2rem var(--praimary-color);
       }
     }
   }
@@ -179,7 +179,7 @@ nav {
       height: 30rem;
       padding: 2rem 3.2rem;
       border-radius: 1rem;
-      border: 1px solid #eeedde;
+      border: .1rem solid #eeedde;
       position: relative;
       h4 {
         font-size: 1.6rem;
