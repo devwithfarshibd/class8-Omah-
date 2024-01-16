@@ -53,6 +53,10 @@ a {
 /* Start Navbar  */
 nav {
   background-color: var(--theme-bg);
+    position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
 }
 .navWrapper {
   display: flex;
